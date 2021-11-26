@@ -1,4 +1,4 @@
-# Awesome Web Design 
+# Web Design Resources 
 > A curated list of awesome resources for designers.
 
 ## Contents
